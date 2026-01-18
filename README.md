@@ -1,9 +1,11 @@
 # mlops-lab-06
 
 # Étape 1 : Préparer l’environnement Kubernetes
-<img width="945" height="661" alt="image" src="https://github.com/user-attachments/assets/576d2d34-0976-4903-a85a-b75d7cb488fe" />
 
- <img width="945" height="371" alt="image" src="https://github.com/user-attachments/assets/c3369206-77d8-4c30-94e9-dab2a48ee2ca" />
+<img width="955" height="266" alt="image" src="https://github.com/user-attachments/assets/347adcde-41c3-4386-8240-adaaadd3dcf5" />
+
+
+<img width="945" height="371" alt="image" src="https://github.com/user-attachments/assets/c3369206-77d8-4c30-94e9-dab2a48ee2ca" />
 
  
 # Étape 2 : Préparer l’image Docker de l’API churn
@@ -86,7 +88,6 @@
 
  <img width="945" height="120" alt="image" src="https://github.com/user-attachments/assets/09ebd617-8d1b-42f8-85a5-034726fdefb9" />
 
-# Étape 11 : Ajouter les probes (liveness / readiness / startup)
  
  
  
