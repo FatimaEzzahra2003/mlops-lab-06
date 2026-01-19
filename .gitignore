@@ -1,0 +1,25 @@
+# Environnement virtuel
+venv_mlops/
+
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+
+# Modèles et données
+models/
+data/
+
+# Fichiers lourds / archives
+*.tar
+*.zip
+*.gz
+*.h5
+*.pt
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
